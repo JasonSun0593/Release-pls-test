@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.11.0-rc](https://github.com/JasonSun0593/Release-pls-test/compare/v1.10.2...v1.11.0-rc) (2025-07-24)
+
+
+### Features
+
+* commit00 ([efb5922](https://github.com/JasonSun0593/Release-pls-test/commit/efb592279463bd8537a006c1166baab66ba96b6f))
+* commit00 ([74cb7ce](https://github.com/JasonSun0593/Release-pls-test/commit/74cb7ce41930d26573868e9325978cfdbb8f5a99))
+
+
+### Miscellaneous Chores
+
+* first commit ([64f48b4](https://github.com/JasonSun0593/Release-pls-test/commit/64f48b4536e1a5d7bd149c30241a812a6b19804f))
+
 ## [0.1.0-rc.6](https://github.com/JasonSun0593/deployment-new-one-branch/compare/v0.1.0-rc.5...v0.1.0-rc.6) (2025-07-24)
 
 
