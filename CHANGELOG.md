@@ -1,5 +1,28 @@
 # Changelog
 
+## [1.11.0](https://github.com/JasonSun0593/Release-pls-test/compare/my-typescript-project-v1.10.2...my-typescript-project-v1.11.0) (2025-07-24)
+
+
+### Features
+
+* commit00 ([efb5922](https://github.com/JasonSun0593/Release-pls-test/commit/efb592279463bd8537a006c1166baab66ba96b6f))
+* commit00 ([74cb7ce](https://github.com/JasonSun0593/Release-pls-test/commit/74cb7ce41930d26573868e9325978cfdbb8f5a99))
+
+
+### Bug Fixes
+
+* change type to node ([292c3a8](https://github.com/JasonSun0593/Release-pls-test/commit/292c3a8f150155571045946847128d1c3be72bdf))
+* change type to node ([9c43bc2](https://github.com/JasonSun0593/Release-pls-test/commit/9c43bc24b7e415fdcd849185704ad45fb1185d7c))
+
+
+### Miscellaneous Chores
+
+* first commit ([64f48b4](https://github.com/JasonSun0593/Release-pls-test/commit/64f48b4536e1a5d7bd149c30241a812a6b19804f))
+* **main:** release 1.11.0-rc ([08b05c0](https://github.com/JasonSun0593/Release-pls-test/commit/08b05c00994a68456b83d3be0dd9b99b850ddb2f))
+* **main:** release 1.11.0-rc ([1635925](https://github.com/JasonSun0593/Release-pls-test/commit/163592544173f083e25ed0e4a3a8b3c833b6615e))
+* **main:** release my-typescript-project 1.11.0-rc.1 ([256c9bf](https://github.com/JasonSun0593/Release-pls-test/commit/256c9bfef53a180e92211d7dfe616d149da5469c))
+* **main:** release my-typescript-project 1.11.0-rc.1 ([721d147](https://github.com/JasonSun0593/Release-pls-test/commit/721d147000d5519616162efc1b4084c231d5cd29))
+
 ## [1.11.0-rc.1](https://github.com/JasonSun0593/Release-pls-test/compare/my-typescript-project-v1.11.0-rc...my-typescript-project-v1.11.0-rc.1) (2025-07-24)
 
 
